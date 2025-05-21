@@ -119,4 +119,4 @@ The string returned by postBlockSupportStyles is specific to the content of that
 
 ## **Contributing**
 
-Contributions are welcome\! If you find issues or have ideas for improvements, please open an issue or submit a pull request on the GitHub repository. [(Link to be added once repository is created)](https://github.com/odotjdot/WP-GraphQL-Dynamic-Styles-Exporter).
+Contributions are welcome\! If you find issues or have ideas for improvements, please open an issue or submit a pull request on the GitHub repository. [(Link)](https://github.com/odotjdot/WP-GraphQL-Dynamic-Styles-Exporter).
