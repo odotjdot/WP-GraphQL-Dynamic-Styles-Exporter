@@ -2,6 +2,8 @@
 
 **Contributors:** OJ Smith & The Robot (aka Gemini 2.5 by Google)
 
+**Author URI:** <https://ojsmith.net>
+
 **Requires WordPress Version:** 6.1 or higher
 
 **Requires PHP Version:** 7.4 or higher
