@@ -1,11 +1,17 @@
 # WPGraphQL Dynamic Styles Exporter
 
 **Contributors:** OJ Smith & The Robot (aka Gemini 2.5 by Google)
+
 **Requires WordPress Version:** 6.1 or higher
+
 **Requires PHP Version:** 7.4 or higher
+
 **WPGraphQL Requires:** 1.8.0 or higher
+
 **License:** GPL v2 or later
+
 **License URI:** <https://www.gnu.org/licenses/gpl-2.0.html>
+
 **Text Domain:** `wp-graphql-dynamic-styles-exporter`
 
 ## Introduction (More like a back story...)
