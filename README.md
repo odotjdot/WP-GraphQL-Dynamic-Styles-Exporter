@@ -162,10 +162,6 @@ The string returned by `postBlockSupportStyles` is specific to the content of th
   /* margin-right: calc(-50vw + 50%) !important; */
 }
 
-.alignwide .inline-block {
-  width: 100%;
-}
-
 ```
 
 ## To-Do / Future Enhancements
