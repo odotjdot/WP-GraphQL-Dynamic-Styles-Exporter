@@ -46,6 +46,20 @@ This plugin is particularly useful for headless WordPress developers who want to
 - Implements caching for `postBlockSupportStyles` using WordPress Transients to improve performance (default 12-hour expiration).
 - Automatically clears the cache for a specific post's block support styles when that post is updated via the `save_post` hook.
 
+## Demonstration
+
+The best way to see the plugin in action is to visit the Projects page on my portfolio site, that this plugin was built for, and explore the different pages from there, they are all laid out differently.
+
+- [https://ojsmith.net/projects](https://ojsmith.net/projects)
+
+But if you wanted to see the top five examples in my opinion (because that would be my next question):
+
+- [Sony](https://ojsmith.net/projects/sony-marketing)
+- [DC-Unplugged](https://ojsmith.net/projects/dc-unplugged)
+- [Reign](https://ojsmith.net/projects/reign-com)
+- [LionsGate](https://ojsmith.net/projects/lions-gate)
+- [The Pod App](https://ojsmith.net/projects/the-podapp)
+
 ## Dependencies
 
 - WordPress: Version 6.1 or higher
